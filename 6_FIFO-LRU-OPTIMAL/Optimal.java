@@ -81,3 +81,6 @@ optimal.execute();
 }
 }
 
+/* javac Optimal.java
+   java Optimal */
+
