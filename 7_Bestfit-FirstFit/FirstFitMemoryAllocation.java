@@ -66,3 +66,6 @@ public class FirstFitMemoryAllocation {
         sc.close();
     }
 }
+
+/*  javac FirstFitMemoryAllocation.java
+    java FirstFitMemoryAllocation  */
