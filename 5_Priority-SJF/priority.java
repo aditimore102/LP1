@@ -67,3 +67,5 @@ public class priority
     }
 }
 
+/* javac priority.java
+   java priority */
