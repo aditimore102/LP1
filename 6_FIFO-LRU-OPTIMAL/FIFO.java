@@ -65,3 +65,6 @@ FIFO fifo = new FIFO();
 fifo.execute();
 }
 }
+
+/* javac FIFO.java
+   java FIFO */
