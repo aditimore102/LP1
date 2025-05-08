@@ -62,3 +62,6 @@ public class roundrobin
         s.close();
     }
 }  
+
+/* javac roundrobin.java
+   java roundrobin */
