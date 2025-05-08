@@ -79,3 +79,6 @@ public class FCFS {
         return "FCFS []";
     }
 }
+
+/* javac FCFS.java
+   java FCFS */
