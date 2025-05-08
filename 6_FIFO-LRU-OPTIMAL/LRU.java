@@ -53,3 +53,5 @@ lru.execute();
 }
 }
 
+/* javac LRU.java
+   java LRU */
