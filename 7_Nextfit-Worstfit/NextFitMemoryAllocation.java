@@ -74,3 +74,6 @@ public class NextFitMemoryAllocation {
         sc.close();
     }
 }
+
+/* javac NextFitMemoryAllocation.java
+java NextFitMemoryAllocation*/
