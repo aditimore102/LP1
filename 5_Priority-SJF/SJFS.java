@@ -72,3 +72,6 @@ sc.close();
 }
 
 }
+
+/* javac SJFS.java
+   java SJFS */
