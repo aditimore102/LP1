@@ -78,5 +78,5 @@ r3.start();
 }
 }
 
-//compile- javac filename.java 
-//         java filename
+//compile- javac ReaderWriterPrj.java 
+//         java ReaderWriterPrj
